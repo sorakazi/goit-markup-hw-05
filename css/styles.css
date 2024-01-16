@@ -93,7 +93,7 @@ body {
   content: '';
   position: absolute;
   left: 0;
-  bottom: -2px;
+  bottom: -1px;
   height: 4px;
   background-color: var(--ocean);
   border-radius: 2px;
@@ -468,7 +468,7 @@ li > .link:focus {
   fill: var(--cloud);
 }
 
-/* FORTFOLIO PAGE */
+/* PORTFOLIO PAGE */
 
 /* Main */
 
